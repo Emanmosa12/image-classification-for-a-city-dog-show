@@ -1,6 +1,6 @@
 # Image Classification for a City Dog Show
 
-An image classification project developed as part of the **Udacity AI Programming with Python Nanodegree**.
+An image classification project developed as part of the **Machine Learning Fundamentals Nanodegree by Udacity, sponsored by AWS**.
 
 ## Project Overview
 
